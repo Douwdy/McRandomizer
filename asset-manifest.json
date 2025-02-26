@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/McRandomizer/static/css/main.ca461b4c.css",
-    "main.js": "/McRandomizer/static/js/main.3c0fdcf3.js",
+    "main.css": "/McRandomizer/static/css/main.655e0bd1.css",
+    "main.js": "/McRandomizer/static/js/main.4faef4f9.js",
     "static/js/453.76a36fd9.chunk.js": "/McRandomizer/static/js/453.76a36fd9.chunk.js",
     "index.html": "/McRandomizer/index.html",
-    "main.ca461b4c.css.map": "/McRandomizer/static/css/main.ca461b4c.css.map",
-    "main.3c0fdcf3.js.map": "/McRandomizer/static/js/main.3c0fdcf3.js.map",
+    "main.655e0bd1.css.map": "/McRandomizer/static/css/main.655e0bd1.css.map",
+    "main.4faef4f9.js.map": "/McRandomizer/static/js/main.4faef4f9.js.map",
     "453.76a36fd9.chunk.js.map": "/McRandomizer/static/js/453.76a36fd9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ca461b4c.css",
-    "static/js/main.3c0fdcf3.js"
+    "static/css/main.655e0bd1.css",
+    "static/js/main.4faef4f9.js"
   ]
 }
