@@ -3,4 +3,26 @@ section{
     display: flex;
     align-items: center;
     justify-content: center;
+    flex-direction: column;
+    button{
+        font-family: 'Courier New', Courier, monospace;
+        font-weight: 700;
+        height: 50px;
+        width: 150px;
+        font-size: 1.5em;
+    }
+    div{
+        display: flex;
+        flex-direction: column;
+        align-items: left;
+        justify-content: center;
+        h2{
+            color: white;
+            font-family: 'Courier New', Courier, monospace;
+        }
+        p{
+            font-family: 'Courier New', Courier, monospace;
+            color: white;
+        }
+    }
 }
