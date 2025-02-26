@@ -1,0 +1,414 @@
+{
+  "categories": {
+    "small_sandwich": [
+      {
+        "name": "Croque McDo",
+        "imageUrl": "string"
+      },
+      {
+        "name": "Ptit Wrap Chèvre",
+        "imageUrl": "string"
+      },
+      {
+        "name": "Ptit Wrap Ranch",
+        "imageUrl": "string"
+      },
+      {
+        "name": "Chicken McNuggets",
+        "imageUrl": "string"
+      },
+      {
+        "name": "Veggie McPlant Nuggets",
+        "imageUrl": "string"
+      },
+      {
+        "name": "Hamburger",
+        "imageUrl": "string"
+      },
+      {
+        "name": "Cheeseburger",
+        "imageUrl": "string"
+      },
+      {
+        "name": "Double Cheeseburger",
+        "imageUrl": "string"
+      },
+      {
+        "name": "Double Cheese Bacon",
+        "imageUrl": "string"
+      },
+      {
+        "name":"Egg & Cheese McMuffin",
+        "imageUrl": "string"
+      },
+      {
+        "name": "Egg & Bacon McMuffin",
+        "imageUrl": "string"
+      },
+      {
+        "name": "McFish",
+        "imageUrl": "string"
+      },
+      {
+        "name": "McFish Mayo",
+        "imageUrl": "string"
+      },
+      {
+        "name": "Ptit Chicken",
+        "imageUrl": "string"
+      }
+    ],
+    "sandwich": [
+      {
+        "name": "McExtreme - 1 Steak Haché",
+        "imageUrl": "string"
+      },
+      {
+        "name": "McExtreme - 2 Steak Haché",
+        "imageUrl": "string"
+      },
+      {
+        "name": "McVeggie",
+        "imageUrl": "string"
+      },
+      {
+        "name": "McWrap Veggie",
+        "imageUrl": "string"
+      },
+      {
+        "name": "Filet-O-Fish",
+        "imageUrl": "string"
+      },
+      {
+        "name": "Filet-O-Fish Deluxe",
+        "imageUrl": "string"
+      },
+      {
+        "name": "McFish Mayo",
+        "imageUrl": "string"
+      },
+      {
+        "name": "McFish",
+        "imageUrl": "string"
+      },
+      {
+        "name": "McWrap Chèvre",
+        "imageUrl": "string"
+      },
+      {
+        "name": "McChicken",
+        "imageUrl": "string"
+      },
+      {
+        "name": "Spicy McChicken",
+        "imageUrl": "string"
+      },
+      {
+        "name": "McChicken BLT",
+        "imageUrl": "string"
+      },
+      {
+        "name": "McFirst Poisson",
+        "imageUrl": "string"
+      },
+      {
+        "name": "Cheeseburger",
+        "imageUrl": "string"
+      },
+      {
+        "name": "CBO",
+        "imageUrl": "string"
+      },
+      {
+        "name": "Hamburger",
+        "imageUrl": "string"
+      },
+      {
+        "name": "McWrap New York & Poulet Bacon",
+        "imageUrl": "string"
+      },
+      {
+        "name": "Big Mac",
+        "imageUrl": "string"
+      },
+      {
+        "name": "Royal Cheese",
+        "imageUrl": "string"
+      },
+      {
+        "name": "Double Cheeseburger",
+        "imageUrl": "string"
+      },
+      {
+        "name": "Royal Deluxe",
+        "imageUrl": "string"
+      },
+      {
+        "name": "Royal Bacon",
+        "imageUrl": "string"
+      },
+      {
+        "name": "McFirst Boeuf",
+        "imageUrl": "string"
+      },
+      {
+        "name": "McFirst Poulet",
+        "imageUrl": "string"
+      },
+      {
+        "name": "Big Tasty - 1 Steak Haché",
+        "imageUrl": "string"
+      },
+      {
+        "name": "Big Tasty - 2 Steak Haché",
+        "imageUrl": "string"
+      },
+      {
+        "name": "280 Original",
+        "imageUrl": "string"
+      },
+      {
+        "name": "Double Cheese Bacon",
+        "imageUrl": "string"
+      },
+      {
+        "name": "Royal BBQ Bacon",
+        "imageUrl": "string"
+      },
+      {
+        "name": "Double Royal BBQ Bacon",
+        "imageUrl": "string"
+      }
+    ],
+    "dessert": [
+      {
+        "name": "McFlurry",
+        "imageUrl": "string"
+      },
+      {
+        "name": "Sundae",
+        "imageUrl": "string"
+      },
+      {
+        "name": "Sundae Caramel BBQ",
+        "imageUrl": "string"
+      },
+      {
+        "name": "Cône Saveur Vanille",
+        "imageUrl": "string"
+      },
+      {
+        "name": "Ptit Glacé Saveur Vanille",
+        "imageUrl": "string"
+      },
+      {
+        "name": "Ptite Pomme",
+        "imageUrl": "string"
+      },
+      {
+        "name": "Ptit Ananas",
+        "imageUrl": "string"
+      },
+      {
+        "name": "Bio à boire Fraise",
+        "imageUrl": "string"
+      },
+      {
+        "name": "Berlingo' Fruits",
+        "imageUrl": "string"
+      },
+      {
+        "name": "Muffin Saveur Chocolat Noisette",
+        "imageUrl": "string"
+      },
+      {
+        "name": "Cookie Fourré Choconuts",
+        "imageUrl": "string"
+      },
+      {
+        "name": "Brownie Chocolat-Noisettes",
+        "imageUrl": "string"
+      },
+      {
+        "name": "Donut Nature",
+        "imageUrl": "string"
+      },
+      {
+        "name": "Duo de Macarons",
+        "imageUrl": "string"
+      },
+      {
+        "name": "Ptit Milkshake Saveur Vanille",
+        "imageUrl": "string"
+      },
+      {
+        "name": "Ptit Milkshake Saveur Fraise",
+        "imageUrl": "string"
+      },
+      {
+        "name": "McChocoNuts Nappage Choconuts",
+        "imageUrl": "string"
+      }
+    ],
+    "drinks": {
+      "hot": [
+        {
+          "name": "Café Latté",
+          "imageUrl": "string"
+        },
+        {
+          "name": "Café Expresso",
+          "imageUrl": "string"
+        },
+        {
+          "name": "Café Double Expresso",
+          "imageUrl": "string"
+        },
+        {
+          "name": "Café Ristretto",
+          "imageUrl": "string"
+        },
+        {
+          "name": "Café Allongé",
+          "imageUrl": "string"
+        },
+        {
+          "name": "Café Allongé Décafeiné",
+          "imageUrl": "string"
+        },
+        {
+            "name": "Café Expresso Décafeiné",
+            "imageUrl": "string"
+        },
+        {
+            "name": "Café Viennois",
+            "imageUrl": "string"
+        },
+        {
+            "name": "Café Cappuccino",
+            "imageUrl": "string"
+        },
+        {
+            "name": "Café Cappuccino Daim",
+            "imageUrl": "string"
+        },
+        {
+            "name": "Thé",
+            "imageUrl": "string"
+        },
+        {
+            "name": "Chocolat Chaud",
+            "imageUrl": "string"
+        },
+        {
+            "name": "Chocolat Chaud Viennois",
+            "imageUrl": "string"
+        },
+        {
+            "name": "Mocha Viennois",
+            "imageUrl": "string"
+        }
+      ],
+      "cold": [
+        {
+          "name": "Eau by Mcdo - Plate",
+          "imageUrl": "string"
+        },
+        {
+          "name": "Eau by Mcdo - Pétillante",
+          "imageUrl": "string"
+        },
+        {
+          "name": "Eau by Mcdo - Citron-Citron vert",
+          "imageUrl": "string"
+        },
+        {
+          "name": "Eau by Mcdo - Pétillante Citron-Citron vert",
+          "imageUrl": "string"
+        },
+        {
+          "name": "Eau by Mcdo - Fraise",
+          "imageUrl": "string"
+        },
+        {
+          "name": "Eau by Mcdo - Pétillante Fraise",
+          "imageUrl": "string"
+        },
+        {
+          "name": "Coca-cola Sans-sucres",
+          "imageUrl": "string"
+        },
+        {
+          "name": "Coca-cola",
+          "imageUrl": "string"
+        },
+        {
+          "name": "Fanta sans-sucres",
+          "imageUrl": "string"
+        },
+        {
+          "name": "Sprite sans-sucres",
+          "imageUrl": "string"
+        },
+        {
+          "name": "Minute Maid Orange",
+          "imageUrl": "string"
+        },
+        {
+          "name": "Lipton Ice Tea sans-sucres",
+          "imageUrl": "string"
+        },
+        {
+          "name": "Lipton Ice Tea Green sans-sucres",
+          "imageUrl": "string"
+        },
+        {
+          "name": "Nectar de pomme Bio",
+          "imageUrl": "string"        
+        }
+      ]
+    },
+    "fries": [
+      {
+        "name": "Petites frites",
+        "imageUrl": "string"
+      },
+      {
+        "name": "Moyennes frites",
+        "imageUrl": "string"
+      },
+      {
+        "name": "Grandes frites",
+        "imageUrl": "string"
+      },
+      {
+        "name": "McShaker Fries BBQ",
+        "imageUrl": "string"
+      },
+      {
+        "name": "Moyennes Potatoes",
+        "imageUrl": "string"
+      },
+      {
+        "name": "Grandes Potatoes",
+        "imageUrl": "string"
+      },
+      {
+        "name": "McFlavor Fries Double Cheddar Fondu",
+        "imageUrl": "string"
+      },
+      {
+        "name": "McFlavor Fries Cheddar Fondu - Bacon",
+        "imageUrl": "string"
+      },
+      {
+        "name": "Potatoes Double Cheddar Fondu",
+        "imageUrl": "string"
+      },
+      {
+        "name": "Potatoes Cheddar Fondu - Bacon",
+        "imageUrl": "string"
+      }
+    ]
+  }
+}
